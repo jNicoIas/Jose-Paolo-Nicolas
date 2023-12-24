@@ -5,18 +5,20 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- B.S. Electronics Engineering | University of Santo Tomas (_June 2023_)
+
+## Licenses
+- Electronics Engineer (_Board Topnotcher - Top 9_)
+- Electronics Technician
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Intern @ Radius Telecoms Inc (_June 2022 - July 2022_)**
+- Automated post-project documentation using Microsoft Excel Macros- 
+- First-hand experience of learning from top project managers
+- Analyzed as-built plans with riser diagrams and floor plans for post-project documentation for colocation, rollout, and node projects
+- Identified NAP Boxes, Entry Facilities, and type of Fiber Optic Cable deployed
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Skills: Project Management · Microsoft Excel Macros · Microsoft Excel · Floor Plans · Data Wrangling · Microsoft Word · Networking · Microsoft PowerPoint · As-built Documentation
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
