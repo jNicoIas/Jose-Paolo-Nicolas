@@ -52,7 +52,7 @@ _Skills: tableau, data-inspired decision-making, working effectively with stakeh
 
 After completing "Introduction to Data Engineering," I've developed a solid understanding of key skills crucial for modern data engineering. I've become adept at using SQL for effective data manipulation, explored the intricacies of designing ETL (Extract, Transform, Load) pipelines, and gained a working knowledge of Directed Acyclic Graphs (DAG). With exposure to Apache Airflow, I can now navigate workflows. The course also introduced me to parallel computing techniques, enhancing my ability to process data efficiently. Additionally, I've acquired a good grasp of interfacing with data through APIs, expanding my skills in data engineering.
 
-Skills: ETL pipeline, PostgreSQL, API, SQL, DAG, Airflow, and parallel computing 
+_Skills: ETL pipeline, PostgreSQL, API, SQL, DAG, Airflow, and parallel computing_
 
 
 ![](/assets/DataCamp.png)
