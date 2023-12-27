@@ -63,7 +63,8 @@ Skills: ETL pipeline, PostgreSQL, API, SQL, DAG, Airflow, and parallel computing
 As a speaker at the board examination testimonial, I shared my journey as a **top 9 performer** in the **electronics engineering board exam**. I offered valuable advice, emphasizing resilience and a growth mindset. Moreover, I presented a sample schedule, highlighting balanced study periods and shared quotes emphasizing perseverance. I advised the students as if I was talking to my past self -- at times when I was feeling lost during the review. I want to inspire the next generation of Electronics Engineers who will take the board exam.
 
 
-Link: https://varsitarian.net/news/20231027/thomasians-snag-spots-in-october-2023-electronics-boards 
+[Official UST Article]([https://www.mdpi.com/1424-8220/22/8/3048](https://varsitarian.net/news/20231027/thomasians-snag-spots-in-october-2023-electronics-boards )https://varsitarian.net/news/20231027/thomasians-snag-spots-in-october-2023-electronics-boards )
+ 
 
 
 ![](/assets/Talk.jpeg)
