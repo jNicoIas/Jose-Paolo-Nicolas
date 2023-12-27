@@ -26,6 +26,7 @@ The objective of the thesis was to use machine learning to quantify the duration
 
 _Skills: Python, Numpy, Pandas, Matplotlib, SciKit Learn, and parameter optimization_
 
+![](/assets/Thesis.png)
 
 
 ### Foundations: Data, Data, Everywhere (_Google & Coursera_)
