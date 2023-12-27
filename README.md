@@ -1,8 +1,6 @@
-# Jose-Paolo-Nicolas
+# Data Scientist / Data Engineer
 
-# Data Scientist
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Machine Learning, Data Wrangling, Data Visualization
 
 ## Education
 - B.S. Electronics Engineering | University of Santo Tomas (_June 2023_)
@@ -21,33 +19,52 @@
 - **Skills**: Project Management · Microsoft Excel Macros · Microsoft Excel · Floor Plans · Data Wrangling · Microsoft Word · Networking · Microsoft PowerPoint · As-built Documentation
 
 ## Projects and Professional Development
-### Undergraduate Thesis: 
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Undergraduate Thesis: Children Screen Exposure Detection and Classification between Static and Dynamic Media
 
 
-### Foundations: Data, Data, Everywhere
+The objective of the thesis was to use machine learning to quantify the duration of screen time and classify the content of the screen. The input was sensor data, and the output was the classification and the duration of the screen time. My primary role was to develop the **signal preprocessing, data visualization, feature selection, and machine learning pipeline in Python**. The Python libraries utilized are Numpy, Pandas, Matplotlib, and SciKit learn. I compared three machine learning models: SVM, Random Forest, and Naïve Bayes. After training 80 machine learning models, the project yielded an average hold-out accuracy of 99.87%.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+_Skills: Python, Numpy, Pandas, Matplotlib, SciKit Learn, and parameter optimization_
+
+
+
+### Foundations: Data, Data, Everywhere (_Google & Coursera_)
+
+
+After completing "Foundations: Data, Data, Everywhere," I've gained a solid understanding of data analytics essentials. I can confidently work with various data types, employ tools like Python for analysis, and apply data cleaning and visualization techniques. The course emphasized ethical considerations, privacy, and real-world applications, offering hands-on projects for practical experience. Continuous learning is now ingrained in my approach, recognizing the dynamic nature of data analytics. I can effectively communicate insights to both technical and non-technical stakeholders, ensuring impactful results.
+
+_Skills: analytical skills, technical mindset, understanding context, big-picture thinking, detail-oriented thinking, correlation, visualization, and gap analysis_
+
 
 ![](/assets/G2.png)
 
-### Foundations: Ask Questions to Make Data-Driven Decisions
+### Ask Questions to Make Data-Driven Decisions (_Google & Coursera_)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Having completed "Ask Questions to Make Data-Driven Decisions," I've honed my skills in formulating strategic queries for effective decision-making. The course equipped me with techniques to extract meaningful insights from data, fostering a data-driven mindset. I can now ask pertinent questions, leverage data for decision support, and understand its implications. Practical applications and case studies provided a real-world perspective, enhancing my ability to derive actionable conclusions. I've also acquired proficiency in SQL. This invaluable addition allows me to interact with databases seamlessly, extracting and manipulating data efficiently. This course has empowered me to contribute to informed decision-making through thoughtful inquiry and analysis.
+
+_Skills: tableau, data-inspired decision-making, working effectively with stakeholders, leading great meetings, and limitations of data_
+
 
 ![](/assets/G1.png)
 
-### Foundations: Introduction to Data Engineering
+### Introduction to Data Engineering (_DataCamp_)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+
+After completing "Introduction to Data Engineering," I've developed a solid understanding of key skills crucial for modern data engineering. I've become adept at using SQL for effective data manipulation, explored the intricacies of designing ETL (Extract, Transform, Load) pipelines, and gained a working knowledge of Directed Acyclic Graphs (DAG). With exposure to Apache Airflow, I can now navigate workflows. The course also introduced me to parallel computing techniques, enhancing my ability to process data efficiently. Additionally, I've acquired a good grasp of interfacing with data through APIs, expanding my skills in data engineering.
+
+Skills: ETL pipeline, PostgreSQL, API, SQL, DAG, Airflow, and parallel computing 
+
 
 ![](/assets/DataCamp.png)
 
 ## Talks & Lectures
 ### UST ECE Board Testimonials (_Speaker_)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+As a speaker at the board examination testimonial, I shared my journey as a **top 9 performer** in the **electronics engineering board exam**. I offered valuable advice, emphasizing resilience and a growth mindset. Moreover, I presented a sample schedule, highlighting balanced study periods and shared quotes emphasizing perseverance. I advised the students as if I was talking to my past self -- at times when I was feeling lost during the review. I want to inspire the next generation of Electronics Engineers who will take the board exam.
+
+
+Link: https://varsitarian.net/news/20231027/thomasians-snag-spots-in-october-2023-electronics-boards 
+
 
 ![](/assets/Talk.jpeg)
 
