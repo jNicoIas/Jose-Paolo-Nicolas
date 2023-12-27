@@ -11,7 +11,7 @@
 
 ## Work Experience
 **Intern @ Radius Telecoms Inc (_June 2022 - July 2022_)**
-- Automated post-project documentation using Microsoft Excel Macros- 
+- Automated post-project documentation using Microsoft Excel Macros 
 - First-hand experience of learning from top project managers
 - Analyzed as-built plans with riser diagrams and floor plans for post-project documentation for colocation, rollout, and node projects
 - Identified NAP Boxes, Entry Facilities, and type of Fiber Optic Cable deployed
