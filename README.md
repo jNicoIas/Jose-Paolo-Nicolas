@@ -66,5 +66,6 @@ As a speaker at the board examination testimonial, I shared my journey as a **to
 [Official UST Article](https://varsitarian.net/news/20231027/thomasians-snag-spots-in-october-2023-electronics-boards)
 
 
+
 ![](/assets/Talk.jpeg)
 
