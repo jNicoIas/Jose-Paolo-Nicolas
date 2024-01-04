@@ -1,4 +1,4 @@
-# Data Scientist / Data Engineer
+# Data Scientist / Data Engineer / Software Engineer
 
 #### Technical Skills: Python, SQL, Machine Learning, Data Wrangling, Data Visualization
 
