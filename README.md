@@ -10,6 +10,16 @@
 - Electronics Technician
 
 ## Work Experience
+**Jr. Data Engineer (ML Team) @ Media Meter Inc. (_January 2024 - July 2024_)**
+- Conducted extensive research on artificial intelligence (AI) technologies and implements proof-of-concept (POC) projects to evaluate their potential applications and feasibility
+- Provided weekly reports and updates to the CEO, ensuring clear communication and transparency regarding project progress, impediments, and achievements
+- Refactored legacy codebase to improve code quality, enhance performance, and align with modern software engineering principles.
+- Ensured data integrity in ETL pipelines and validates results from proof-of-concept (POC) implementations through comprehensive testing and analysis
+- Implemented new LLM models and integrations to connect with the Salina application (SaaS), enabling seamless data flow and enhancing system functionality
+- Developed, deployed, and debugged code in staging and production environments while leveraging version control tools, adhering to weekly sprint cycles for iterative development and delivery
+
+- **Skills**: Python · Streamlit · Metabase · Pub/Sub · Database Schema · MongoDB · Redis · Apache Spark · Apache Airflow · ETL · Docker · FastAPI · GenAI · LLM · Prompt Engineering · Text Chunking · Text Embeddings · RAG 
+
 **Intern @ Radius Telecoms Inc (_June 2022 - July 2022_)**
 - Automated post-project documentation using Microsoft Excel Macros 
 - First-hand experience of learning from top project managers
