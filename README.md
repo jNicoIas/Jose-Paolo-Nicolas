@@ -10,8 +10,8 @@
 - Electronics Technician
 
 ## Work Experience
-**Jr. Data Engineer (ML Team) @ Media Meter Inc. (_January 2024 - July 2024_)**
-- Conducted extensive research on artificial intelligence (AI) technologies and implements proof-of-concept (POC) projects to evaluate their potential applications and feasibility
+**Jr. Data Engineer (ML Team) @ Media Meter, Inc. (_January 2024 - July 2024_)**
+- Conducted extensive research on artificial intelligence (AI) technologies and implemented proof-of-concept (POC) projects to evaluate their potential applications and feasibility
 - Provided weekly reports and updates to the CEO, ensuring clear communication and transparency regarding project progress, impediments, and achievements
 - Refactored legacy codebase to improve code quality, enhance performance, and align with modern software engineering principles.
 - Ensured data integrity in ETL pipelines and validates results from proof-of-concept (POC) implementations through comprehensive testing and analysis
